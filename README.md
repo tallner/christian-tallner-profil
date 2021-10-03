@@ -39,3 +39,8 @@ Margin
 Padding  
 Display: block/inline/inline-block  
 
+
+-Frågor-  
+Förklara cite, taggar
+Hur positionera de olika elementen?
+
