@@ -1,5 +1,38 @@
+/*  */
+body{
+    background-color: black;
+    background-image: linear-gradient(black, grey, red);
+    background-repeat: no-repeat, repeat;
+    background-size: 50%;
+    text-align: center;
+   
+}
+/*  * /
+img{
+   padding: 4rem;
+}
+
+/*  */
 h1{
     color:rgb(255, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;
+    font-weight: 900;
+    background-image: linear-gradient(red, yellow);
+}
+
+/*  */
+p{
+    font-family: fantasy;
+    color: #ee14dc;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    background-color: red;
 }

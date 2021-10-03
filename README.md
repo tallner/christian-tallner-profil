@@ -20,20 +20,21 @@ x Det kan innehålla precis så många inputs du tycker behövs.
 x Länkar till de två andra sidorna  
 
 -CSS-  
-Rubrikerna ha annan färg än svart.  
-Rubrikerna och paragraferna ska ha olika fonter.  
-Länkarna ska ligga i en horisontell meny högst upp på varje sida.  
-Länkarna ska ändra utseende när muspekaren hovrar på dom.  
-CSS properties  
-Font-family  
-Font-size  
-Font-weight  
+x Rubrikerna ha annan färg än svart.  
+x Rubrikerna och paragraferna ska ha olika fonter.  
+x Länkarna ska ligga i en horisontell meny högst upp på varje sida.  
+x Länkarna ska ändra utseende när muspekaren hovrar på dom.  
+
+-CSS properties-  
+x Font-family  
+x Font-size  
+x Font-weight  
 Text-align  
-Background-color  
-(Background-image)  
-Color  
+x Background-color  
+x (Background-image)  
+x Color  
 Border  
-Text-decoration  
+x Text-decoration  
 Margin  
 Padding  
 Display: block/inline/inline-block  
