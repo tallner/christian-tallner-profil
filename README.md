@@ -15,9 +15,9 @@ x 3 länkar till externa webbsidor som relaterar till det som inspirerar dig.
 x Länkar till de två andra sidorna  
 
 -Kontaktsidan-  
-Ett formulär för att kontakta dig.  
-Det kan innehålla precis så många inputs du tycker behövs.  
-Länkar till de två andra sidorna  
+x Ett formulär för att kontakta dig.  
+x Det kan innehålla precis så många inputs du tycker behövs.  
+x Länkar till de två andra sidorna  
 
 -CSS-  
 Rubrikerna ha annan färg än svart.  
