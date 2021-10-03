@@ -43,4 +43,6 @@ Display: block/inline/inline-block
 -Frågor-  
 Förklara cite, taggar
 Hur positionera de olika elementen?
+Varför ibland id och ibland class?
+Varför fylls inte hela bakgrunden på första sidan?
 
