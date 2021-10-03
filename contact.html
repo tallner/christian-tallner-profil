@@ -9,12 +9,32 @@
 </head>
 <body>
 
-    <!-- Form to contact me -->
-    <form action=""></form>
-
     <!-- links -->
     <a href="index.html">Hem</a>
     <a href="inspiration.html">Intresse</a>
+    
+    <!-- Form to contact me -->
+    <h1>Kontaktformulär</h1>
+    
+    <form id="form" name="form" method="post" action="mailto:ctallner@hotmail.com" target="_blank">
+
+        <label for="fnamn">Förnamn:</label> <br>
+        <input type="text" name="fnamn" id="fnamn" /> <br>
+        
+        <label for="enamn">Efternamn:</label> <br>
+        <input type="text" name="enamn" id="enamn" /> <br>
+        
+        <label for="epost">E-postadress:</label> <br>
+        <input type="text" name="epost" id="epost" /> <br>
+        
+        <label for="meddelande">Meddelande:</label> <br>
+        <textarea name="meddelande" id="meddelande" cols="45" rows="5"></textarea> <br>
+        
+        <input type="submit" name="skicka" id="skicka" value="Skicka meddelandet" />
+        
+        </form>
+
+    
     
 </body>
 </html>
