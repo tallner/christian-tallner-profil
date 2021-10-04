@@ -45,4 +45,5 @@ Förklara cite, taggar
 Hur positionera de olika elementen?
 Varför ibland id och ibland class?
 Varför fylls inte hela bakgrunden på första sidan?
+Hur får jag ner texten i mitten av sidan på indexsidan?
 

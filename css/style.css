@@ -21,7 +21,7 @@ img{
 
 /*  */
 h1{
-    color:rgb(255, 0, 0);
+    color:rgb(60, 150, 110);
     /* font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;
     font-weight: 900;
@@ -36,26 +36,42 @@ p{
 
 a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(255, 0, 0);
+    color: rgb(60, 150, 110);
     text-decoration: none;
 }
 a:hover{
-    color: black;
-    background-color: red;
+    color: rgb(35, 122, 83);
+    /* color: rgb(191, 199, 144); */
+    /* background-color: rgb(60, 150, 110); */
 }
 
 
 
 .floatContainer{
-    border: 3px solid #fff;
-    padding: 20px;
+    /* border: 3px solid red; */
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.floatChild_black_back{
+    /* border: 3px solid red; */
+    width: 40%;
+    height: 100%;
+    float: left;
+    padding: 50px;
+    text-align: unset;
+    /* background-color: rgb(1, 1, 1); */
 }
 
 .floatChild{
+    /* border: 3px solid red; */
     width: 40%;
+    height: 100px;
     float: left;
     padding: 50px;
     text-align: center;
+    
     /* border: 1rem solid red; */
 }
 
@@ -87,7 +103,7 @@ a:hover{
     height: 100%;
     width: 100%;
     object-position: 100%;
-    /*  */
+    /*  * /
     
 }
 
