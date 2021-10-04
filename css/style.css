@@ -30,8 +30,17 @@ h1{
 
 /*  */
 p{
-    font-family: fantasy;
-    color: #ee14dc;
+    /* font-family: fantasy;
+    color: #ee14dc; */
+
+    font-family: "proxima-nova";
+    font-size: 15px;
+    line-height: 1.8em;
+    text-transform: none;
+    text-decoration: none;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0 0 1em;
 }
 
 a{
@@ -73,6 +82,14 @@ a:hover{
     text-align: center;
     
     /* border: 1rem solid red; */
+}
+
+.floatChild_insp{
+    width: 30%;
+    height: 100px;
+    float: left;
+    padding: 10px;
+    text-align: center;
 }
 
 /*  * /
