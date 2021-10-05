@@ -48,9 +48,12 @@ a{
 }
 
 form{
-    border: 3px solid red;
+    /* border: 3px solid red; */
     margin: 4rem;
-    text-align: center;
+    text-align: justify;
+}
+form *{
+    display: block;
 }
 
 
@@ -82,13 +85,6 @@ nav a{
     object-fit: cover;
 }
 
-/* class formatting */
-.floatContainer{
-    /* border: 1px solid red; */
-    padding: 0px;
-    height: 100%;
-    width: 100%;
-}
 
 .floatChild_picture{
     /* border: 3px solid red; */
