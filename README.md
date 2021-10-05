@@ -29,15 +29,15 @@ x Länkarna ska ändra utseende när muspekaren hovrar på dom.
 x Font-family  
 x Font-size  
 x Font-weight  
-Text-align  
+x Text-align  
 x Background-color  
 x (Background-image)  
 x Color  
 x Border -->mest använt för att kolla var div ligger
 x Text-decoration  
-Margin  
+x Margin  
 x Padding  
-Display: block/inline/inline-block  
+x Display: block/inline/inline-block  
 
 
 -Frågor-  
