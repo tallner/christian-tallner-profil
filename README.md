@@ -48,4 +48,4 @@ x Display: block/inline/inline-block
 ~~Hur får jag ner texten i mitten av sidan på indexsidan?~~  
 ~~Förklara de olika display~~  
 ~~Har även stylat inne i img..-->TA BORT!~~  
-Skillnad float och Display: block/inline/inline-block  
+~~Skillnad float och Display: block/inline/inline-block~~  
