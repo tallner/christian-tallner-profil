@@ -41,11 +41,11 @@ x Display: block/inline/inline-block
 
 
 -Frågor-  
-Förklara cite, taggar
-Hur positionera de olika elementen?
-Varför ibland id och ibland class?
-Varför fylls inte hela bakgrunden på första sidan?
-Hur får jag ner texten i mitten av sidan på indexsidan?
-Förklara de olika display
-Har även stylat inne i img..-->TA BORT!
-Skillnad float och Display: block/inline/inline-block
+~~Förklara cite, taggar~~  
+Hur positionera de olika elementen?  
+Varför ibland id och ibland class?  
+Varför fylls inte hela bakgrunden på första sidan?  
+Hur får jag ner texten i mitten av sidan på indexsidan?  
+Förklara de olika display  
+Har även stylat inne i img..-->TA BORT!  
+Skillnad float och Display: block/inline/inline-block  
